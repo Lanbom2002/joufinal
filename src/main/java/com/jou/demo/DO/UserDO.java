@@ -4,9 +4,8 @@ public class UserDO {
     private String userID;
     private String name;
     private String sex;
-    private String avatar;
     private String password;
-    private int submit;
+    private String submit;
     public String getUserID() {
         return userID;
     }
@@ -31,13 +30,7 @@ public class UserDO {
         this.sex = sex;
     }
 
-    public String getAvatar() {
-        return avatar;
-    }
 
-    public void setAvatar(String avatar) {
-        this.avatar = avatar;
-    }
 
     public String getPassword() {
         return password;
@@ -47,11 +40,11 @@ public class UserDO {
         this.password = password;
     }
 
-    public int getSubmit() {
+    public String getSubmit() {
         return submit;
     }
 
-    public void setSubmit(int submit) {
+    public void setSubmit(String submit) {
         this.submit = submit;
     }
 

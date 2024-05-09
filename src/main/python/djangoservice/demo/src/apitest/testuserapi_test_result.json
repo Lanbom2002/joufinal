@@ -1,0 +1,23 @@
+{
+    "userID": "9999999",
+    "name": "lanbom\u6d4b\u8bd5\u53f7",
+    "sex": "\u5176\u4ed6",
+    "password": "123456",
+    "submit": "Administrator"
+},
+{
+    "_content": "<class 'bytes'>",
+    "_content_consumed": true,
+    "_next": null,
+    "status_code": 200,
+    "headers": "<class 'requests.structures.CaseInsensitiveDict'>",
+    "raw": "<class 'urllib3.response.HTTPResponse'>",
+    "url": "http://localhost:8081/user",
+    "encoding": null,
+    "history": [],
+    "reason": "",
+    "cookies": "<class 'requests.cookies.RequestsCookieJar'>",
+    "elapsed": "<class 'datetime.timedelta'>",
+    "request": "<class 'requests.models.PreparedRequest'>",
+    "connection": "<class 'requests.adapters.HTTPAdapter'>"
+}   

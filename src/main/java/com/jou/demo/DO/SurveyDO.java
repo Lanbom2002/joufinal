@@ -4,9 +4,6 @@ import java.time.LocalDateTime;
 
 public class SurveyDO {
     private String surveysID;
-
-
-
     private String title_0;
     private String description;
     private LocalDateTime dateTime;
